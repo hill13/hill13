@@ -34,6 +34,8 @@ I designed Firestore data schemas with Zod validation, built reusable React comp
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hill13&theme=dark)
 
+![Profile Views](https://komarev.com/ghpvc/?username=hill13&color=blue)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=hill13&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hill13&layout=compact&theme=dark)
