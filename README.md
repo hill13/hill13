@@ -31,3 +31,9 @@ I designed Firestore data schemas with Zod validation, built reusable React comp
 - 📧 hillkalathiya7@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/hill-kalathiya)
 - 📍 San Francisco, CA · Open to relocation
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hill13&theme=dark)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=hill13&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hill13&layout=compact&theme=dark)
