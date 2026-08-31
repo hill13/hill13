@@ -1,41 +1,31 @@
 # Hi, I'm Hill 👋
-
-CS senior at San Francisco State University (graduating Dec 2026), focused on building production-quality backend systems and AI-powered applications.
+CS senior at San Francisco State University (graduating Dec 2026), focused on building production-quality backend and full-stack systems, with a growing focus on AI product engineering.
 
 ## 🛠 Currently Building
-
-- **[Intern-Track-Lite](https://github.com/hill13/Intern-Track-Lite)** — Full-stack job application tracker with Kanban drag-and-drop. FastAPI + PostgreSQL backend, React + TypeScript frontend, JWT auth, optimistic updates.
-- **Cloudflare AI Agent (cf_ai)** — AI-powered job tracking agent built on Cloudflare Workers AI, Durable Objects, and the Agents SDK.
-- **Daily** — LeetCode practice, system design fundamentals, and shipping features.
+- **[Intern-Track-Lite](https://github.com/hill13/Intern-Track-Lite)** — Full-stack job application tracker with a Kanban board. FastAPI + PostgreSQL backend, React + TypeScript frontend, JWT auth, a scheduled reminder pipeline, and a stats dashboard.
+- **AskMyNotes** — A retrieval-augmented (RAG) system that answers questions from your own notes, with an eval harness measuring retrieval and answer quality. *(In progress)*
+- **Daily** — LeetCode practice and shipping features by hand.
 
 ## 💼 Recent Work
-
-I'm currently a Software Developer Intern at [Thaddeus Resource Center](https://thaddeus.org), working on a live Next.js 14 + TypeScript codebase.
-I designed Firestore data schemas with Zod validation, built reusable React components, and integrated live data sources via React Query.
+Software Developer Intern at [Thaddeus Resource Center](https://thaddeus.org), working on a live Next.js 14 + TypeScript codebase — shipping features, diagnosing production bugs, and building reusable React components backed by Firestore and Zod validation.
 
 ## ⚙️ Tech I Build With
-
 **Backend:** FastAPI · Spring Boot · Node.js · PostgreSQL · MySQL · SQLAlchemy · Alembic  
 **Frontend:** React · Next.js · TypeScript · Tailwind · React Query · Zustand  
-**Infra & Tooling:** Docker · AWS EC2 · NGINX · GitHub Actions · Firebase  
-**AI:** OpenAI API · Zod schemas · Cloudflare Workers AI (learning)
+**Infra & Tooling:** Docker · AWS EC2 · NGINX · GitHub Actions · 
 
 ## 📚 Currently Learning
-
-- AI agent architecture and stateful inference at the edge
-- Distributed systems fundamentals (consistency, replication, queues)
-- Production-grade backend patterns and observability
+- RAG and AI product engineering (building AskMyNotes)
+- How to evaluate AI systems — retrieval quality, answer correctness, hallucination
+- Backend depth and system design fundamentals
 
 ## 🔗 Connect
-
 - 📧 hillkalathiya7@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/hill-kalathiya)
+- 🌐 [Portfolio](https://hillkalathiya.vercel.app/)
 - 📍 San Francisco, CA · Open to relocation
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hill13&theme=dark)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=hill13&color=blue)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=hill13&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hill13&layout=compact&theme=dark)
